@@ -3,7 +3,9 @@
 ![](smoke.png)
 Указал в pipeline первого проекта include.
 ![](pipeline.png)
-Однако пробный аккаунт не дает создать public репозиторий, поэтому include не сможет его достать.
-![](settings.png)
-Вот результат job без remote include.
-![](result.png)
+
+Результат локальной тестовой job.
+![](result1.png)
+
+Результат удаленной тестовой job.
+![](result2.png)
